@@ -1,0 +1,497 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Out-of-school rate for youth of upper secondary school age (administrative data),2018,68.68825,Female,,%,,,,Total
+Afghanistan,AF,AFG,4,Out-of-school rate for youth of upper secondary school age (administrative data),2018,43.78052,Male,,%,,,,Total
+Afghanistan,AF,AFG,4,Out-of-school rate for youth of upper secondary school age (administrative data),2018,55.89854,Total,,%,,,,Total
+Albania,AL,ALB,8,Out-of-school rate for youth of upper secondary school age (administrative data),2020,15.10066,Female,,%,,,,Total
+Albania,AL,ALB,8,Out-of-school rate for youth of upper secondary school age (administrative data),2020,21.92466,Male,,%,,,,Total
+Albania,AL,ALB,8,Out-of-school rate for youth of upper secondary school age (administrative data),2020,18.74204,Total,,%,,,,Total
+Anguilla,AI,AIA,660,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.33056,Total,,%,,,,Total
+Antigua and Barbuda,AG,ATG,28,Out-of-school rate for youth of upper secondary school age (administrative data),2019,13.39031,Female,,%,,,,Total
+Antigua and Barbuda,AG,ATG,28,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.00279,Male,,%,,,,Total
+Antigua and Barbuda,AG,ATG,28,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.68946,Total,,%,,,,Total
+Argentina,AR,ARG,32,Out-of-school rate for youth of upper secondary school age (administrative data),2019,6.61321,Female,,%,,,,Total
+Argentina,AR,ARG,32,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.56729,Male,,%,,,,Total
+Argentina,AR,ARG,32,Out-of-school rate for youth of upper secondary school age (administrative data),2019,10.65845,Total,,%,,,,Total
+Armenia,AM,ARM,51,Out-of-school rate for youth of upper secondary school age (administrative data),2020,1.435,Female,,%,,,,Total
+Armenia,AM,ARM,51,Out-of-school rate for youth of upper secondary school age (administrative data),2020,13.18625,Male,,%,,,,Total
+Armenia,AM,ARM,51,Out-of-school rate for youth of upper secondary school age (administrative data),2020,7.72412,Total,,%,,,,Total
+Australia,AU,AUS,36,Out-of-school rate for youth of upper secondary school age (administrative data),2020,5.5268,Female,,%,,,,Total
+Australia,AU,AUS,36,Out-of-school rate for youth of upper secondary school age (administrative data),2020,8.854,Male,,%,,,,Total
+Australia,AU,AUS,36,Out-of-school rate for youth of upper secondary school age (administrative data),2020,7.23036,Total,,%,,,,Total
+Austria,AT,AUT,40,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.99559,Female,,%,,,,Total
+Austria,AT,AUT,40,Out-of-school rate for youth of upper secondary school age (administrative data),2019,10.51243,Male,,%,,,,Total
+Austria,AT,AUT,40,Out-of-school rate for youth of upper secondary school age (administrative data),2019,9.77608,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Out-of-school rate for youth of upper secondary school age (administrative data),2020,0.1708,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Out-of-school rate for youth of upper secondary school age (administrative data),2020,0.12584,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Out-of-school rate for youth of upper secondary school age (administrative data),2020,0.14683,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Out-of-school rate for youth of upper secondary school age (administrative data),2019,6.34636,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Out-of-school rate for youth of upper secondary school age (administrative data),2019,18.12214,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.71451,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Out-of-school rate for youth of upper secondary school age (administrative data),2020,33.4591,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Out-of-school rate for youth of upper secondary school age (administrative data),2020,40.16995,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Out-of-school rate for youth of upper secondary school age (administrative data),2020,36.89385,Total,,%,,,,Total
+Barbados,BB,BRB,52,Out-of-school rate for youth of upper secondary school age (administrative data),2020,4.24077,Female,,%,,,,Total
+Barbados,BB,BRB,52,Out-of-school rate for youth of upper secondary school age (administrative data),2020,7.9036,Male,,%,,,,Total
+Barbados,BB,BRB,52,Out-of-school rate for youth of upper secondary school age (administrative data),2020,6.12191,Total,,%,,,,Total
+Belarus,BY,BLR,112,Out-of-school rate for youth of upper secondary school age (administrative data),2020,4.58753,Female,,%,,,,Total
+Belarus,BY,BLR,112,Out-of-school rate for youth of upper secondary school age (administrative data),2020,7.7514,Male,,%,,,,Total
+Belarus,BY,BLR,112,Out-of-school rate for youth of upper secondary school age (administrative data),2020,6.21312,Total,,%,,,,Total
+Belgium,BE,BEL,56,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.96315,Female,,%,,,,Total
+Belgium,BE,BEL,56,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.2207,Male,,%,,,,Total
+Belgium,BE,BEL,56,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.09523,Total,,%,,,,Total
+Belize,BZ,BLZ,84,Out-of-school rate for youth of upper secondary school age (administrative data),2020,27.73354,Female,,%,,,,Total
+Belize,BZ,BLZ,84,Out-of-school rate for youth of upper secondary school age (administrative data),2020,34.78694,Male,,%,,,,Total
+Belize,BZ,BLZ,84,Out-of-school rate for youth of upper secondary school age (administrative data),2020,31.28569,Total,,%,,,,Total
+Benin,BJ,BEN,204,Out-of-school rate for youth of upper secondary school age (administrative data),2020,68.90571,Female,,%,,,,Total
+Benin,BJ,BEN,204,Out-of-school rate for youth of upper secondary school age (administrative data),2020,58.68436,Male,,%,,,,Total
+Benin,BJ,BEN,204,Out-of-school rate for youth of upper secondary school age (administrative data),2020,63.73174,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Out-of-school rate for youth of upper secondary school age (administrative data),2018,22.34422,Female,,%,,,,Total
+Bhutan,BT,BTN,64,Out-of-school rate for youth of upper secondary school age (administrative data),2018,32.77808,Male,,%,,,,Total
+Bhutan,BT,BTN,64,Out-of-school rate for youth of upper secondary school age (administrative data),2018,27.71668,Total,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Out-of-school rate for youth of upper secondary school age (administrative data),2020,21.50324,Female,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Out-of-school rate for youth of upper secondary school age (administrative data),2020,22.11464,Male,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Out-of-school rate for youth of upper secondary school age (administrative data),2020,21.81521,Total,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.77155,Female,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Out-of-school rate for youth of upper secondary school age (administrative data),2020,20.26935,Male,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Out-of-school rate for youth of upper secondary school age (administrative data),2020,18.55448,Total,,%,,,,Total
+Botswana,BW,BWA,72,Out-of-school rate for youth of upper secondary school age (administrative data),2017,18.14047,Female,,%,,,,Total
+Botswana,BW,BWA,72,Out-of-school rate for youth of upper secondary school age (administrative data),2017,21.39566,Male,,%,,,,Total
+Botswana,BW,BWA,72,Out-of-school rate for youth of upper secondary school age (administrative data),2017,19.78289,Total,,%,,,,Total
+Brazil,BR,BRA,76,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.31466,Female,,%,,,,Total
+Brazil,BR,BRA,76,Out-of-school rate for youth of upper secondary school age (administrative data),2019,15.63811,Male,,%,,,,Total
+Brazil,BR,BRA,76,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.99522,Total,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Out-of-school rate for youth of upper secondary school age (administrative data),2016,15.88785,Female,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Out-of-school rate for youth of upper secondary school age (administrative data),2016,24.09091,Male,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Out-of-school rate for youth of upper secondary school age (administrative data),2016,19.81567,Total,,%,,,,Total
+Brunei,BN,BRN,96,Out-of-school rate for youth of upper secondary school age (administrative data),2020,13.89732,Female,,%,,,,Total
+Brunei,BN,BRN,96,Out-of-school rate for youth of upper secondary school age (administrative data),2020,19.44836,Male,,%,,,,Total
+Brunei,BN,BRN,96,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.74752,Total,,%,,,,Total
+Bulgaria,BG,BGR,100,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.75904,Female,,%,,,,Total
+Bulgaria,BG,BGR,100,Out-of-school rate for youth of upper secondary school age (administrative data),2019,13.61654,Male,,%,,,,Total
+Bulgaria,BG,BGR,100,Out-of-school rate for youth of upper secondary school age (administrative data),2019,15.62083,Total,,%,,,,Total
+Burkina Faso,BF,BFA,854,Out-of-school rate for youth of upper secondary school age (administrative data),2020,65.72184,Female,,%,,,,Total
+Burkina Faso,BF,BFA,854,Out-of-school rate for youth of upper secondary school age (administrative data),2020,68.34481,Male,,%,,,,Total
+Burkina Faso,BF,BFA,854,Out-of-school rate for youth of upper secondary school age (administrative data),2020,67.05887,Total,,%,,,,Total
+Burundi,BI,BDI,108,Out-of-school rate for youth of upper secondary school age (administrative data),2021,59.00851,Female,,%,,,,Total
+Burundi,BI,BDI,108,Out-of-school rate for youth of upper secondary school age (administrative data),2021,64.59746,Male,,%,,,,Total
+Burundi,BI,BDI,108,Out-of-school rate for youth of upper secondary school age (administrative data),2021,61.80563,Total,,%,,,,Total
+Cape Verde,CV,CPV,132,Out-of-school rate for youth of upper secondary school age (administrative data),2019,23.95588,Female,,%,,,,Total
+Cape Verde,CV,CPV,132,Out-of-school rate for youth of upper secondary school age (administrative data),2019,29.26878,Male,,%,,,,Total
+Cape Verde,CV,CPV,132,Out-of-school rate for youth of upper secondary school age (administrative data),2019,26.62177,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Out-of-school rate for youth of upper secondary school age (administrative data),2020,56.28691,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Out-of-school rate for youth of upper secondary school age (administrative data),2020,53.84366,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Out-of-school rate for youth of upper secondary school age (administrative data),2020,55.06271,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Out-of-school rate for youth of upper secondary school age (administrative data),2015,58.44663,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Out-of-school rate for youth of upper secondary school age (administrative data),2015,49.7123,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Out-of-school rate for youth of upper secondary school age (administrative data),2015,54.05766,Total,,%,,,,Total
+Canada,CA,CAN,124,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.03281,Female,,%,,,,Total
+Canada,CA,CAN,124,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.72597,Male,,%,,,,Total
+Canada,CA,CAN,124,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.87547,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Out-of-school rate for youth of upper secondary school age (administrative data),2017,85.82162,Female,,%,,,,Total
+Central African Republic,CF,CAF,140,Out-of-school rate for youth of upper secondary school age (administrative data),2017,76.06094,Male,,%,,,,Total
+Central African Republic,CF,CAF,140,Out-of-school rate for youth of upper secondary school age (administrative data),2017,80.93191,Total,,%,,,,Total
+Chad,TD,TCD,148,Out-of-school rate for youth of upper secondary school age (administrative data),2019,85.14036,Female,,%,,,,Total
+Chad,TD,TCD,148,Out-of-school rate for youth of upper secondary school age (administrative data),2019,70.59798,Male,,%,,,,Total
+Chad,TD,TCD,148,Out-of-school rate for youth of upper secondary school age (administrative data),2019,77.85227,Total,,%,,,,Total
+Chile,CL,CHL,152,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.89784,Female,,%,,,,Total
+Chile,CL,CHL,152,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.52346,Male,,%,,,,Total
+Chile,CL,CHL,152,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.70747,Total,,%,,,,Total
+Colombia,CO,COL,170,Out-of-school rate for youth of upper secondary school age (administrative data),2020,15.63901,Female,,%,,,,Total
+Colombia,CO,COL,170,Out-of-school rate for youth of upper secondary school age (administrative data),2020,18.05569,Male,,%,,,,Total
+Colombia,CO,COL,170,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.87307,Total,,%,,,,Total
+Comoros,KM,COM,174,Out-of-school rate for youth of upper secondary school age (administrative data),2018,48.13952,Female,,%,,,,Total
+Comoros,KM,COM,174,Out-of-school rate for youth of upper secondary school age (administrative data),2018,51.54992,Male,,%,,,,Total
+Comoros,KM,COM,174,Out-of-school rate for youth of upper secondary school age (administrative data),2018,49.87252,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Out-of-school rate for youth of upper secondary school age (administrative data),2020,21.5736,Female,,%,,,,Total
+Cook Islands,CK,COK,184,Out-of-school rate for youth of upper secondary school age (administrative data),2020,34.25,Male,,%,,,,Total
+Cook Islands,CK,COK,184,Out-of-school rate for youth of upper secondary school age (administrative data),2020,27.9597,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Out-of-school rate for youth of upper secondary school age (administrative data),2020,7.08991,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Out-of-school rate for youth of upper secondary school age (administrative data),2020,9.45661,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Out-of-school rate for youth of upper secondary school age (administrative data),2020,8.30011,Total,,%,,,,Total
+Croatia,HR,HRV,191,Out-of-school rate for youth of upper secondary school age (administrative data),2019,10.02749,Female,,%,,,,Total
+Croatia,HR,HRV,191,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.4147,Male,,%,,,,Total
+Croatia,HR,HRV,191,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.28074,Total,,%,,,,Total
+Cuba,CU,CUB,192,Out-of-school rate for youth of upper secondary school age (administrative data),2020,12.41908,Female,,%,,,,Total
+Cuba,CU,CUB,192,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.47668,Male,,%,,,,Total
+Cuba,CU,CUB,192,Out-of-school rate for youth of upper secondary school age (administrative data),2020,14.50617,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.73466,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Out-of-school rate for youth of upper secondary school age (administrative data),2019,6.11304,Male,,%,,,,Total
+Cyprus,CY,CYP,196,Out-of-school rate for youth of upper secondary school age (administrative data),2019,7.41599,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.37116,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.20299,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.28495,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Out-of-school rate for youth of upper secondary school age (administrative data),2021,62.86243,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Out-of-school rate for youth of upper secondary school age (administrative data),2021,53.46087,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Out-of-school rate for youth of upper secondary school age (administrative data),2021,58.15967,Total,,%,,,,Total
+Denmark,DK,DNK,208,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.77994,Female,,%,,,,Total
+Denmark,DK,DNK,208,Out-of-school rate for youth of upper secondary school age (administrative data),2019,9.76807,Male,,%,,,,Total
+Denmark,DK,DNK,208,Out-of-school rate for youth of upper secondary school age (administrative data),2019,9.28519,Total,,%,,,,Total
+Djibouti,DJ,DJI,262,Out-of-school rate for youth of upper secondary school age (administrative data),2021,53.02546,Female,,%,,,,Total
+Djibouti,DJ,DJI,262,Out-of-school rate for youth of upper secondary school age (administrative data),2021,52.33914,Male,,%,,,,Total
+Djibouti,DJ,DJI,262,Out-of-school rate for youth of upper secondary school age (administrative data),2021,52.64807,Total,,%,,,,Total
+Dominica,DM,DMA,212,Out-of-school rate for youth of upper secondary school age (administrative data),2020,27.04136,Female,,%,,,,Total
+Dominica,DM,DMA,212,Out-of-school rate for youth of upper secondary school age (administrative data),2020,13.89173,Male,,%,,,,Total
+Dominica,DM,DMA,212,Out-of-school rate for youth of upper secondary school age (administrative data),2020,20.34339,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Out-of-school rate for youth of upper secondary school age (administrative data),2020,24.7814,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Out-of-school rate for youth of upper secondary school age (administrative data),2020,27.81702,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Out-of-school rate for youth of upper secondary school age (administrative data),2020,26.31566,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Out-of-school rate for youth of upper secondary school age (administrative data),2020,20.36597,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Out-of-school rate for youth of upper secondary school age (administrative data),2020,22.25224,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Out-of-school rate for youth of upper secondary school age (administrative data),2020,21.32748,Total,,%,,,,Total
+Egypt,EG,EGY,818,Out-of-school rate for youth of upper secondary school age (administrative data),2019,24.1314,Female,,%,,,,Total
+Egypt,EG,EGY,818,Out-of-school rate for youth of upper secondary school age (administrative data),2019,22.73528,Male,,%,,,,Total
+Egypt,EG,EGY,818,Out-of-school rate for youth of upper secondary school age (administrative data),2019,23.41334,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Out-of-school rate for youth of upper secondary school age (administrative data),2021,40.72636,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Out-of-school rate for youth of upper secondary school age (administrative data),2021,42.01525,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Out-of-school rate for youth of upper secondary school age (administrative data),2021,41.3754,Total,,%,,,,Total
+Eritrea,ER,ERI,232,Out-of-school rate for youth of upper secondary school age (administrative data),2018,52.58804,Female,,%,,,,Total
+Eritrea,ER,ERI,232,Out-of-school rate for youth of upper secondary school age (administrative data),2018,44.9303,Male,,%,,,,Total
+Eritrea,ER,ERI,232,Out-of-school rate for youth of upper secondary school age (administrative data),2018,48.69667,Total,,%,,,,Total
+Estonia,EE,EST,233,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.20429,Female,,%,,,,Total
+Estonia,EE,EST,233,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.78811,Male,,%,,,,Total
+Estonia,EE,EST,233,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.99149,Total,,%,,,,Total
+Swaziland,SZ,SWZ,748,Out-of-school rate for youth of upper secondary school age (administrative data),2015,18.07501,Female,,%,,,,Total
+Swaziland,SZ,SWZ,748,Out-of-school rate for youth of upper secondary school age (administrative data),2015,14.33211,Male,,%,,,,Total
+Swaziland,SZ,SWZ,748,Out-of-school rate for youth of upper secondary school age (administrative data),2015,16.18668,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Out-of-school rate for youth of upper secondary school age (administrative data),2015,75.24028,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Out-of-school rate for youth of upper secondary school age (administrative data),2015,72.80989,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Out-of-school rate for youth of upper secondary school age (administrative data),2015,74.01042,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Out-of-school rate for youth of upper secondary school age (administrative data),2020,9.23726,Female,,%,,,,Total
+Fiji,FJ,FJI,242,Out-of-school rate for youth of upper secondary school age (administrative data),2020,24.27176,Male,,%,,,,Total
+Fiji,FJ,FJI,242,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.97782,Total,,%,,,,Total
+Finland,FI,FIN,246,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.91382,Female,,%,,,,Total
+Finland,FI,FIN,246,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.77248,Male,,%,,,,Total
+Finland,FI,FIN,246,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.81659,Total,,%,,,,Total
+France,FR,FRA,250,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.63803,Female,,%,,,,Total
+France,FR,FRA,250,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.50545,Male,,%,,,,Total
+France,FR,FRA,250,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.08296,Total,,%,,,,Total
+Gabon,GA,GAB,266,Out-of-school rate for youth of upper secondary school age (administrative data),2019,40.01954,Female,,%,,,,Total
+Gabon,GA,GAB,266,Out-of-school rate for youth of upper secondary school age (administrative data),2019,43.57113,Male,,%,,,,Total
+Gabon,GA,GAB,266,Out-of-school rate for youth of upper secondary school age (administrative data),2019,41.80676,Total,,%,,,,Total
+Gambia,GM,GMB,270,Out-of-school rate for youth of upper secondary school age (administrative data),2021,36.7911,Female,,%,,,,Total
+Gambia,GM,GMB,270,Out-of-school rate for youth of upper secondary school age (administrative data),2021,48.38994,Male,,%,,,,Total
+Gambia,GM,GMB,270,Out-of-school rate for youth of upper secondary school age (administrative data),2021,42.60082,Total,,%,,,,Total
+Georgia,GE,GEO,268,Out-of-school rate for youth of upper secondary school age (administrative data),2020,3.58403,Female,,%,,,,Total
+Georgia,GE,GEO,268,Out-of-school rate for youth of upper secondary school age (administrative data),2020,6.32259,Male,,%,,,,Total
+Georgia,GE,GEO,268,Out-of-school rate for youth of upper secondary school age (administrative data),2020,5.03598,Total,,%,,,,Total
+Germany,DE,DEU,276,Out-of-school rate for youth of upper secondary school age (administrative data),2019,15.47586,Female,,%,,,,Total
+Germany,DE,DEU,276,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.12028,Male,,%,,,,Total
+Germany,DE,DEU,276,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.77075,Total,,%,,,,Total
+Ghana,GH,GHA,288,Out-of-school rate for youth of upper secondary school age (administrative data),2020,24.65227,Female,,%,,,,Total
+Ghana,GH,GHA,288,Out-of-school rate for youth of upper secondary school age (administrative data),2020,25.00309,Male,,%,,,,Total
+Ghana,GH,GHA,288,Out-of-school rate for youth of upper secondary school age (administrative data),2020,24.83153,Total,,%,,,,Total
+Greece,GR,GRC,300,Out-of-school rate for youth of upper secondary school age (administrative data),2018,6.21379,Female,,%,,,,Total
+Greece,GR,GRC,300,Out-of-school rate for youth of upper secondary school age (administrative data),2018,3.81996,Male,,%,,,,Total
+Greece,GR,GRC,300,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.00562,Total,,%,,,,Total
+Grenada,GD,GRD,308,Out-of-school rate for youth of upper secondary school age (administrative data),2016,11.4098,Female,,%,,,,Total
+Grenada,GD,GRD,308,Out-of-school rate for youth of upper secondary school age (administrative data),2016,11.6657,Male,,%,,,,Total
+Grenada,GD,GRD,308,Out-of-school rate for youth of upper secondary school age (administrative data),2018,0.13537,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Out-of-school rate for youth of upper secondary school age (administrative data),2020,64.20129,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Out-of-school rate for youth of upper secondary school age (administrative data),2020,61.8744,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Out-of-school rate for youth of upper secondary school age (administrative data),2020,63.0151,Total,,%,,,,Total
+Guinea,GN,GIN,324,Out-of-school rate for youth of upper secondary school age (administrative data),2016,78.44389,Female,,%,,,,Total
+Guinea,GN,GIN,324,Out-of-school rate for youth of upper secondary school age (administrative data),2016,62.97774,Male,,%,,,,Total
+Guinea,GN,GIN,324,Out-of-school rate for youth of upper secondary school age (administrative data),2016,70.63212,Total,,%,,,,Total
+Holy See (Vatican City State),VA,VAT,336,Out-of-school rate for youth of upper secondary school age (administrative data),2022,0,Female,,%,,,,Total
+Holy See (Vatican City State),VA,VAT,336,Out-of-school rate for youth of upper secondary school age (administrative data),2022,0,Male,,%,,,,Total
+Holy See (Vatican City State),VA,VAT,336,Out-of-school rate for youth of upper secondary school age (administrative data),2022,0,Total,,%,,,,Total
+Honduras,HN,HND,340,Out-of-school rate for youth of upper secondary school age (administrative data),2018,54.91741,Female,,%,,,,Total
+Honduras,HN,HND,340,Out-of-school rate for youth of upper secondary school age (administrative data),2018,60.40761,Male,,%,,,,Total
+Honduras,HN,HND,340,Out-of-school rate for youth of upper secondary school age (administrative data),2018,57.71719,Total,,%,,,,Total
+Hungary,HU,HUN,348,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.36946,Female,,%,,,,Total
+Hungary,HU,HUN,348,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.5985,Male,,%,,,,Total
+Hungary,HU,HUN,348,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.00141,Total,,%,,,,Total
+Iceland,IS,ISL,352,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.23123,Female,,%,,,,Total
+Iceland,IS,ISL,352,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.30457,Male,,%,,,,Total
+Iceland,IS,ISL,352,Out-of-school rate for youth of upper secondary school age (administrative data),2019,15.78885,Total,,%,,,,Total
+India,IN,IND,356,Out-of-school rate for youth of upper secondary school age (administrative data),2020,41.208,Female,,%,,,,Total
+India,IN,IND,356,Out-of-school rate for youth of upper secondary school age (administrative data),2020,43.41661,Male,,%,,,,Total
+India,IN,IND,356,Out-of-school rate for youth of upper secondary school age (administrative data),2020,42.37582,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Out-of-school rate for youth of upper secondary school age (administrative data),2018,22.19379,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Out-of-school rate for youth of upper secondary school age (administrative data),2018,22.84777,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Out-of-school rate for youth of upper secondary school age (administrative data),2018,22.52996,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Out-of-school rate for youth of upper secondary school age (administrative data),2020,17.51694,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Out-of-school rate for youth of upper secondary school age (administrative data),2020,17.03613,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Out-of-school rate for youth of upper secondary school age (administrative data),2020,17.27065,Total,,%,,,,Total
+Ireland,IE,IRL,372,Out-of-school rate for youth of upper secondary school age (administrative data),2018,0.94896,Female,,%,,,,Total
+Ireland,IE,IRL,372,Out-of-school rate for youth of upper secondary school age (administrative data),2018,1.76062,Male,,%,,,,Total
+Ireland,IE,IRL,372,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.77185,Total,,%,,,,Total
+Israel,IL,ISR,376,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.98906,Total,,%,,,,Total
+Italy,IT,ITA,380,Out-of-school rate for youth of upper secondary school age (administrative data),2019,5.2918,Female,,%,,,,Total
+Italy,IT,ITA,380,Out-of-school rate for youth of upper secondary school age (administrative data),2019,6.13649,Male,,%,,,,Total
+Italy,IT,ITA,380,Out-of-school rate for youth of upper secondary school age (administrative data),2019,5.72865,Total,,%,,,,Total
+Jamaica,JM,JAM,388,Out-of-school rate for youth of upper secondary school age (administrative data),2020,33.2662,Female,,%,,,,Total
+Jamaica,JM,JAM,388,Out-of-school rate for youth of upper secondary school age (administrative data),2020,57.41293,Male,,%,,,,Total
+Jamaica,JM,JAM,388,Out-of-school rate for youth of upper secondary school age (administrative data),2020,45.59831,Total,,%,,,,Total
+Jordan,JO,JOR,400,Out-of-school rate for youth of upper secondary school age (administrative data),2020,40.67588,Female,,%,,,,Total
+Jordan,JO,JOR,400,Out-of-school rate for youth of upper secondary school age (administrative data),2020,46.12243,Male,,%,,,,Total
+Jordan,JO,JOR,400,Out-of-school rate for youth of upper secondary school age (administrative data),2020,43.42413,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Out-of-school rate for youth of upper secondary school age (administrative data),2018,1.08328,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Out-of-school rate for youth of upper secondary school age (administrative data),2015,16.96256,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Out-of-school rate for youth of upper secondary school age (administrative data),2015,19.54556,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Out-of-school rate for youth of upper secondary school age (administrative data),2015,18.29435,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Out-of-school rate for youth of upper secondary school age (administrative data),2020,25.04646,Female,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Out-of-school rate for youth of upper secondary school age (administrative data),2020,29.50435,Male,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Out-of-school rate for youth of upper secondary school age (administrative data),2020,27.31786,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Out-of-school rate for youth of upper secondary school age (administrative data),2020,49.3581,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Out-of-school rate for youth of upper secondary school age (administrative data),2020,45.19354,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Out-of-school rate for youth of upper secondary school age (administrative data),2020,47.24744,Total,,%,,,,Total
+Latvia,LV,LVA,428,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.78976,Female,,%,,,,Total
+Latvia,LV,LVA,428,Out-of-school rate for youth of upper secondary school age (administrative data),2019,5.73295,Male,,%,,,,Total
+Latvia,LV,LVA,428,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.779,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Out-of-school rate for youth of upper secondary school age (administrative data),2016,29.40574,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Out-of-school rate for youth of upper secondary school age (administrative data),2016,38.36854,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Out-of-school rate for youth of upper secondary school age (administrative data),2016,33.91721,Total,,%,,,,Total
+Liberia,LR,LBR,430,Out-of-school rate for youth of upper secondary school age (administrative data),2014,31.10813,Female,,%,,,,Total
+Liberia,LR,LBR,430,Out-of-school rate for youth of upper secondary school age (administrative data),2014,20.06859,Male,,%,,,,Total
+Liberia,LR,LBR,430,Out-of-school rate for youth of upper secondary school age (administrative data),2014,25.53206,Total,,%,,,,Total
+Liechtenstein,LI,LIE,438,Out-of-school rate for youth of upper secondary school age (administrative data),2019,16.00688,Female,,%,,,,Total
+Liechtenstein,LI,LIE,438,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.08333,Male,,%,,,,Total
+Liechtenstein,LI,LIE,438,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.79668,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.99241,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.54774,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.78886,Total,,%,,,,Total
+Luxembourg,LU,LUX,442,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.30769,Female,,%,,,,Total
+Luxembourg,LU,LUX,442,Out-of-school rate for youth of upper secondary school age (administrative data),2019,20.65248,Male,,%,,,,Total
+Luxembourg,LU,LUX,442,Out-of-school rate for youth of upper secondary school age (administrative data),2019,19.03034,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Out-of-school rate for youth of upper secondary school age (administrative data),2019,64.33631,Female,,%,,,,Total
+Madagascar,MG,MDG,450,Out-of-school rate for youth of upper secondary school age (administrative data),2019,63.2431,Male,,%,,,,Total
+Madagascar,MG,MDG,450,Out-of-school rate for youth of upper secondary school age (administrative data),2019,63.78891,Total,,%,,,,Total
+Malawi,MW,MWI,454,Out-of-school rate for youth of upper secondary school age (administrative data),2019,75.79324,Female,,%,,,,Total
+Malawi,MW,MWI,454,Out-of-school rate for youth of upper secondary school age (administrative data),2019,62.09486,Male,,%,,,,Total
+Malawi,MW,MWI,454,Out-of-school rate for youth of upper secondary school age (administrative data),2019,68.95038,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Out-of-school rate for youth of upper secondary school age (administrative data),2020,36.69985,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Out-of-school rate for youth of upper secondary school age (administrative data),2020,42.13582,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Out-of-school rate for youth of upper secondary school age (administrative data),2020,39.50272,Total,,%,,,,Total
+Maldives,MV,MDV,462,Out-of-school rate for youth of upper secondary school age (administrative data),2019,44.48059,Female,,%,,,,Total
+Maldives,MV,MDV,462,Out-of-school rate for youth of upper secondary school age (administrative data),2019,55.29095,Male,,%,,,,Total
+Maldives,MV,MDV,462,Out-of-school rate for youth of upper secondary school age (administrative data),2019,50.0395,Total,,%,,,,Total
+Mali,ML,MLI,466,Out-of-school rate for youth of upper secondary school age (administrative data),2018,78.91945,Female,,%,,,,Total
+Mali,ML,MLI,466,Out-of-school rate for youth of upper secondary school age (administrative data),2018,71.43306,Male,,%,,,,Total
+Mali,ML,MLI,466,Out-of-school rate for youth of upper secondary school age (administrative data),2018,75.13049,Total,,%,,,,Total
+Malta,MT,MLT,470,Out-of-school rate for youth of upper secondary school age (administrative data),2019,6.8575,Female,,%,,,,Total
+Malta,MT,MLT,470,Out-of-school rate for youth of upper secondary school age (administrative data),2019,9.69776,Male,,%,,,,Total
+Malta,MT,MLT,470,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.30951,Total,,%,,,,Total
+Marshall Islands,MH,MHL,584,Out-of-school rate for youth of upper secondary school age (administrative data),2020,40.98139,Female,,%,,,,Total
+Marshall Islands,MH,MHL,584,Out-of-school rate for youth of upper secondary school age (administrative data),2020,45.73191,Male,,%,,,,Total
+Marshall Islands,MH,MHL,584,Out-of-school rate for youth of upper secondary school age (administrative data),2020,43.40623,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Out-of-school rate for youth of upper secondary school age (administrative data),2019,58.78367,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Out-of-school rate for youth of upper secondary school age (administrative data),2019,63.07117,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Out-of-school rate for youth of upper secondary school age (administrative data),2019,60.95711,Total,,%,,,,Total
+Mauritius,MU,MUS,480,Out-of-school rate for youth of upper secondary school age (administrative data),2021,17.47775,Female,,%,,,,Total
+Mauritius,MU,MUS,480,Out-of-school rate for youth of upper secondary school age (administrative data),2021,26.02995,Male,,%,,,,Total
+Mauritius,MU,MUS,480,Out-of-school rate for youth of upper secondary school age (administrative data),2021,21.83886,Total,,%,,,,Total
+Mexico,MX,MEX,484,Out-of-school rate for youth of upper secondary school age (administrative data),2019,24.5667,Female,,%,,,,Total
+Mexico,MX,MEX,484,Out-of-school rate for youth of upper secondary school age (administrative data),2019,28.67629,Male,,%,,,,Total
+Mexico,MX,MEX,484,Out-of-school rate for youth of upper secondary school age (administrative data),2019,26.65224,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.74464,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.87737,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.83761,Total,,%,,,,Total
+Montenegro,ME,MNE,499,Out-of-school rate for youth of upper secondary school age (administrative data),2020,10.23907,Female,,%,,,,Total
+Montenegro,ME,MNE,499,Out-of-school rate for youth of upper secondary school age (administrative data),2020,13.12744,Male,,%,,,,Total
+Montenegro,ME,MNE,499,Out-of-school rate for youth of upper secondary school age (administrative data),2020,11.75157,Total,,%,,,,Total
+Montserrat,MS,MSR,500,Out-of-school rate for youth of upper secondary school age (administrative data),2019,16.15385,Total,,%,,,,Total
+Morocco,MA,MAR,504,Out-of-school rate for youth of upper secondary school age (administrative data),2020,26.79821,Female,,%,,,,Total
+Morocco,MA,MAR,504,Out-of-school rate for youth of upper secondary school age (administrative data),2020,24.05953,Male,,%,,,,Total
+Morocco,MA,MAR,504,Out-of-school rate for youth of upper secondary school age (administrative data),2020,25.39753,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Out-of-school rate for youth of upper secondary school age (administrative data),2020,65.88975,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Out-of-school rate for youth of upper secondary school age (administrative data),2020,56.58483,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Out-of-school rate for youth of upper secondary school age (administrative data),2020,61.26224,Total,,%,,,,Total
+Myanmar,MM,MMR,104,Out-of-school rate for youth of upper secondary school age (administrative data),2018,38.39902,Female,,%,,,,Total
+Myanmar,MM,MMR,104,Out-of-school rate for youth of upper secondary school age (administrative data),2018,46.89922,Male,,%,,,,Total
+Myanmar,MM,MMR,104,Out-of-school rate for youth of upper secondary school age (administrative data),2018,42.65935,Total,,%,,,,Total
+Namibia,,NAM,516,Out-of-school rate for youth of upper secondary school age (administrative data),2019,23.26538,Female,,%,,,,Total
+Namibia,,NAM,516,Out-of-school rate for youth of upper secondary school age (administrative data),2019,22.00246,Male,,%,,,,Total
+Namibia,,NAM,516,Out-of-school rate for youth of upper secondary school age (administrative data),2019,22.63805,Total,,%,,,,Total
+Nauru,NR,NRU,520,Out-of-school rate for youth of upper secondary school age (administrative data),2016,60.10101,Female,,%,,,,Total
+Nauru,NR,NRU,520,Out-of-school rate for youth of upper secondary school age (administrative data),2016,51.51515,Male,,%,,,,Total
+Nauru,NR,NRU,520,Out-of-school rate for youth of upper secondary school age (administrative data),2019,5.26316,Total,,%,,,,Total
+Nepal,NP,NPL,524,Out-of-school rate for youth of upper secondary school age (administrative data),2019,12.69271,Female,,%,,,,Total
+Nepal,NP,NPL,524,Out-of-school rate for youth of upper secondary school age (administrative data),2019,25.82674,Male,,%,,,,Total
+Nepal,NP,NPL,524,Out-of-school rate for youth of upper secondary school age (administrative data),2019,19.3217,Total,,%,,,,Total
+Netherlands,NL,NLD,528,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.48169,Female,,%,,,,Total
+Netherlands,NL,NLD,528,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.25868,Male,,%,,,,Total
+Netherlands,NL,NLD,528,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.8805,Total,,%,,,,Total
+New Zealand,NZ,NZL,554,Out-of-school rate for youth of upper secondary school age (administrative data),2018,0.7957,Female,,%,,,,Total
+New Zealand,NZ,NZL,554,Out-of-school rate for youth of upper secondary school age (administrative data),2018,4.01501,Male,,%,,,,Total
+New Zealand,NZ,NZL,554,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.04923,Total,,%,,,,Total
+Niger,NE,NER,562,Out-of-school rate for youth of upper secondary school age (administrative data),2017,88.8841,Female,,%,,,,Total
+Niger,NE,NER,562,Out-of-school rate for youth of upper secondary school age (administrative data),2017,83.51093,Male,,%,,,,Total
+Niger,NE,NER,562,Out-of-school rate for youth of upper secondary school age (administrative data),2017,86.14805,Total,,%,,,,Total
+Niue,NU,NIU,570,Out-of-school rate for youth of upper secondary school age (administrative data),2014,8.94309,Total,,%,,,,Total
+Norway,NO,NOR,578,Out-of-school rate for youth of upper secondary school age (administrative data),2019,7.86672,Female,,%,,,,Total
+Norway,NO,NOR,578,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.48052,Male,,%,,,,Total
+Norway,NO,NOR,578,Out-of-school rate for youth of upper secondary school age (administrative data),2019,8.18122,Total,,%,,,,Total
+Oman,OM,OMN,512,Out-of-school rate for youth of upper secondary school age (administrative data),2018,16.8588,Female,,%,,,,Total
+Oman,OM,OMN,512,Out-of-school rate for youth of upper secondary school age (administrative data),2018,7.65545,Male,,%,,,,Total
+Oman,OM,OMN,512,Out-of-school rate for youth of upper secondary school age (administrative data),2019,9.89244,Total,,%,,,,Total
+Panama,PA,PAN,591,Out-of-school rate for youth of upper secondary school age (administrative data),2015,30.83011,Female,,%,,,,Total
+Panama,PA,PAN,591,Out-of-school rate for youth of upper secondary school age (administrative data),2015,35.45599,Male,,%,,,,Total
+Panama,PA,PAN,591,Out-of-school rate for youth of upper secondary school age (administrative data),2015,33.18219,Total,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Out-of-school rate for youth of upper secondary school age (administrative data),2018,60.19473,Female,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Out-of-school rate for youth of upper secondary school age (administrative data),2018,50.14269,Male,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Out-of-school rate for youth of upper secondary school age (administrative data),2018,55.01612,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Out-of-school rate for youth of upper secondary school age (administrative data),2020,28.1502,Female,,%,,,,Total
+Paraguay,PY,PRY,600,Out-of-school rate for youth of upper secondary school age (administrative data),2020,31.83996,Male,,%,,,,Total
+Paraguay,PY,PRY,600,Out-of-school rate for youth of upper secondary school age (administrative data),2020,30.03612,Total,,%,,,,Total
+Peru,PE,PER,604,Out-of-school rate for youth of upper secondary school age (administrative data),2018,21.04037,Female,,%,,,,Total
+Peru,PE,PER,604,Out-of-school rate for youth of upper secondary school age (administrative data),2018,15.30081,Male,,%,,,,Total
+Peru,PE,PER,604,Out-of-school rate for youth of upper secondary school age (administrative data),2020,3.69842,Total,,%,,,,Total
+Philippines,PH,PHL,608,Out-of-school rate for youth of upper secondary school age (administrative data),2015,17.06299,Female,,%,,,,Total
+Philippines,PH,PHL,608,Out-of-school rate for youth of upper secondary school age (administrative data),2015,23.72598,Male,,%,,,,Total
+Philippines,PH,PHL,608,Out-of-school rate for youth of upper secondary school age (administrative data),2015,20.49709,Total,,%,,,,Total
+Poland,PL,POL,616,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.47432,Female,,%,,,,Total
+Poland,PL,POL,616,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.16844,Male,,%,,,,Total
+Poland,PL,POL,616,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.31865,Total,,%,,,,Total
+Portugal,PT,PRT,620,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.26422,Total,,%,,,,Total
+South Korea,KR,KOR,410,Out-of-school rate for youth of upper secondary school age (administrative data),2019,7.66587,Female,,%,,,,Total
+South Korea,KR,KOR,410,Out-of-school rate for youth of upper secondary school age (administrative data),2019,7.26356,Male,,%,,,,Total
+South Korea,KR,KOR,410,Out-of-school rate for youth of upper secondary school age (administrative data),2019,7.45632,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Out-of-school rate for youth of upper secondary school age (administrative data),2020,11.643,Female,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Out-of-school rate for youth of upper secondary school age (administrative data),2020,12.90962,Male,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Out-of-school rate for youth of upper secondary school age (administrative data),2020,12.29853,Total,,%,,,,Total
+Romania,RO,ROU,642,Out-of-school rate for youth of upper secondary school age (administrative data),2019,19.07057,Female,,%,,,,Total
+Romania,RO,ROU,642,Out-of-school rate for youth of upper secondary school age (administrative data),2019,21.29803,Male,,%,,,,Total
+Romania,RO,ROU,642,Out-of-school rate for youth of upper secondary school age (administrative data),2019,20.21641,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.09122,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.84628,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.47727,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Out-of-school rate for youth of upper secondary school age (administrative data),2019,49.36591,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Out-of-school rate for youth of upper secondary school age (administrative data),2019,50.23072,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Out-of-school rate for youth of upper secondary school age (administrative data),2019,49.79593,Total,,%,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Out-of-school rate for youth of upper secondary school age (administrative data),2016,5.16827,Female,,%,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Out-of-school rate for youth of upper secondary school age (administrative data),2016,3.7831,Male,,%,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Out-of-school rate for youth of upper secondary school age (administrative data),2016,4.49231,Total,,%,,,,Total
+Saint Lucia,LC,LCA,662,Out-of-school rate for youth of upper secondary school age (administrative data),2020,18.67188,Female,,%,,,,Total
+Saint Lucia,LC,LCA,662,Out-of-school rate for youth of upper secondary school age (administrative data),2020,14.3188,Male,,%,,,,Total
+Saint Lucia,LC,LCA,662,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.48224,Total,,%,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.48449,Female,,%,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.92059,Male,,%,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.71088,Total,,%,,,,Total
+Samoa,WS,WSM,882,Out-of-school rate for youth of upper secondary school age (administrative data),2019,10.60045,Female,,%,,,,Total
+Samoa,WS,WSM,882,Out-of-school rate for youth of upper secondary school age (administrative data),2019,21.47587,Male,,%,,,,Total
+Samoa,WS,WSM,882,Out-of-school rate for youth of upper secondary school age (administrative data),2019,16.22574,Total,,%,,,,Total
+San Marino,SM,SMR,674,Out-of-school rate for youth of upper secondary school age (administrative data),2020,62.04188,Female,,%,,,,Total
+San Marino,SM,SMR,674,Out-of-school rate for youth of upper secondary school age (administrative data),2020,53.26203,Male,,%,,,,Total
+San Marino,SM,SMR,674,Out-of-school rate for youth of upper secondary school age (administrative data),2020,57.21012,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Out-of-school rate for youth of upper secondary school age (administrative data),2015,15.9169,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Out-of-school rate for youth of upper secondary school age (administrative data),2015,18.72996,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Out-of-school rate for youth of upper secondary school age (administrative data),2015,17.33744,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Out-of-school rate for youth of upper secondary school age (administrative data),2017,8.6599,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Out-of-school rate for youth of upper secondary school age (administrative data),2017,2.75041,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.54278,Total,,%,,,,Total
+Senegal,SN,SEN,686,Out-of-school rate for youth of upper secondary school age (administrative data),2020,78.78408,Female,,%,,,,Total
+Senegal,SN,SEN,686,Out-of-school rate for youth of upper secondary school age (administrative data),2020,81.29117,Male,,%,,,,Total
+Senegal,SN,SEN,686,Out-of-school rate for youth of upper secondary school age (administrative data),2020,80.04758,Total,,%,,,,Total
+Serbia,RS,SRB,688,Out-of-school rate for youth of upper secondary school age (administrative data),2020,12.87407,Female,,%,,,,Total
+Serbia,RS,SRB,688,Out-of-school rate for youth of upper secondary school age (administrative data),2020,15.8047,Male,,%,,,,Total
+Serbia,RS,SRB,688,Out-of-school rate for youth of upper secondary school age (administrative data),2020,14.38136,Total,,%,,,,Total
+Seychelles,SC,SYC,690,Out-of-school rate for youth of upper secondary school age (administrative data),2020,9.14106,Female,,%,,,,Total
+Seychelles,SC,SYC,690,Out-of-school rate for youth of upper secondary school age (administrative data),2020,19.54545,Male,,%,,,,Total
+Seychelles,SC,SYC,690,Out-of-school rate for youth of upper secondary school age (administrative data),2020,14.44573,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Out-of-school rate for youth of upper secondary school age (administrative data),2018,66.7124,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Out-of-school rate for youth of upper secondary school age (administrative data),2018,64.19774,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Out-of-school rate for youth of upper secondary school age (administrative data),2018,65.45344,Total,,%,,,,Total
+Singapore,SG,SGP,702,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.45167,Female,,%,,,,Total
+Singapore,SG,SGP,702,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.10293,Male,,%,,,,Total
+Singapore,SG,SGP,702,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.27337,Total,,%,,,,Total
+Slovakia,SK,SVK,703,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.31391,Female,,%,,,,Total
+Slovakia,SK,SVK,703,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.37736,Male,,%,,,,Total
+Slovakia,SK,SVK,703,Out-of-school rate for youth of upper secondary school age (administrative data),2019,11.34644,Total,,%,,,,Total
+Slovenia,SI,SVN,705,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.95899,Female,,%,,,,Total
+Slovenia,SI,SVN,705,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.44916,Male,,%,,,,Total
+Slovenia,SI,SVN,705,Out-of-school rate for youth of upper secondary school age (administrative data),2019,1.21207,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Out-of-school rate for youth of upper secondary school age (administrative data),2017,34.25874,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Out-of-school rate for youth of upper secondary school age (administrative data),2019,20.39706,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Out-of-school rate for youth of upper secondary school age (administrative data),2019,21.47909,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Out-of-school rate for youth of upper secondary school age (administrative data),2019,20.94147,Total,,%,,,,Total
+South Sudan,SS,SSD,728,Out-of-school rate for youth of upper secondary school age (administrative data),2015,71.93627,Female,,%,,,,Total
+South Sudan,SS,SSD,728,Out-of-school rate for youth of upper secondary school age (administrative data),2015,56.81621,Male,,%,,,,Total
+South Sudan,SS,SSD,728,Out-of-school rate for youth of upper secondary school age (administrative data),2015,64.30673,Total,,%,,,,Total
+Spain,ES,ESP,724,Out-of-school rate for youth of upper secondary school age (administrative data),2018,1.10633,Female,,%,,,,Total
+Spain,ES,ESP,724,Out-of-school rate for youth of upper secondary school age (administrative data),2018,2.17703,Male,,%,,,,Total
+Spain,ES,ESP,724,Out-of-school rate for youth of upper secondary school age (administrative data),2019,0.81742,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Out-of-school rate for youth of upper secondary school age (administrative data),2018,13.49414,Female,,%,,,,Total
+Sri Lanka,LK,LKA,144,Out-of-school rate for youth of upper secondary school age (administrative data),2018,18.08832,Male,,%,,,,Total
+Sri Lanka,LK,LKA,144,Out-of-school rate for youth of upper secondary school age (administrative data),2018,15.78832,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Out-of-school rate for youth of upper secondary school age (administrative data),2020,16.05891,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Out-of-school rate for youth of upper secondary school age (administrative data),2020,30.66601,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Out-of-school rate for youth of upper secondary school age (administrative data),2020,23.48724,Total,,%,,,,Total
+Sudan,SD,SDN,736,Out-of-school rate for youth of upper secondary school age (administrative data),2018,49.70828,Female,,%,,,,Total
+Sudan,SD,SDN,736,Out-of-school rate for youth of upper secondary school age (administrative data),2018,53.49484,Male,,%,,,,Total
+Sudan,SD,SDN,736,Out-of-school rate for youth of upper secondary school age (administrative data),2018,51.6245,Total,,%,,,,Total
+Suriname,SR,SUR,740,Out-of-school rate for youth of upper secondary school age (administrative data),2015,33.54758,Female,,%,,,,Total
+Suriname,SR,SUR,740,Out-of-school rate for youth of upper secondary school age (administrative data),2015,42.00078,Male,,%,,,,Total
+Suriname,SR,SUR,740,Out-of-school rate for youth of upper secondary school age (administrative data),2015,37.91468,Total,,%,,,,Total
+Sweden,SE,SWE,752,Out-of-school rate for youth of upper secondary school age (administrative data),2015,2.84783,Female,,%,,,,Total
+Sweden,SE,SWE,752,Out-of-school rate for youth of upper secondary school age (administrative data),2015,1.42353,Male,,%,,,,Total
+Sweden,SE,SWE,752,Out-of-school rate for youth of upper secondary school age (administrative data),2016,1.32312,Total,,%,,,,Total
+Switzerland,CH,CHE,756,Out-of-school rate for youth of upper secondary school age (administrative data),2019,20.45611,Female,,%,,,,Total
+Switzerland,CH,CHE,756,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.39128,Male,,%,,,,Total
+Switzerland,CH,CHE,756,Out-of-school rate for youth of upper secondary school age (administrative data),2019,18.89084,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Out-of-school rate for youth of upper secondary school age (administrative data),2017,26.77582,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Out-of-school rate for youth of upper secondary school age (administrative data),2017,18.69776,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Out-of-school rate for youth of upper secondary school age (administrative data),2017,22.63631,Total,,%,,,,Total
+Thailand,TH,THA,764,Out-of-school rate for youth of upper secondary school age (administrative data),2015,20.96038,Female,,%,,,,Total
+Thailand,TH,THA,764,Out-of-school rate for youth of upper secondary school age (administrative data),2015,20.87599,Male,,%,,,,Total
+Thailand,TH,THA,764,Out-of-school rate for youth of upper secondary school age (administrative data),2015,20.91719,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Out-of-school rate for youth of upper secondary school age (administrative data),2019,21.68957,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Out-of-school rate for youth of upper secondary school age (administrative data),2019,26.70107,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Out-of-school rate for youth of upper secondary school age (administrative data),2019,24.22807,Total,,%,,,,Total
+Togo,TG,TGO,768,Out-of-school rate for youth of upper secondary school age (administrative data),2017,65.58817,Female,,%,,,,Total
+Togo,TG,TGO,768,Out-of-school rate for youth of upper secondary school age (administrative data),2017,46.62264,Male,,%,,,,Total
+Togo,TG,TGO,768,Out-of-school rate for youth of upper secondary school age (administrative data),2017,56.0761,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Out-of-school rate for youth of upper secondary school age (administrative data),2020,28.57143,Female,,%,,,,Total
+Tokelau,TK,TKL,772,Out-of-school rate for youth of upper secondary school age (administrative data),2020,30.55556,Male,,%,,,,Total
+Tokelau,TK,TKL,772,Out-of-school rate for youth of upper secondary school age (administrative data),2020,29.57746,Total,,%,,,,Total
+Tonga,TO,TON,776,Out-of-school rate for youth of upper secondary school age (administrative data),2020,32.80182,Female,,%,,,,Total
+Tonga,TO,TON,776,Out-of-school rate for youth of upper secondary school age (administrative data),2020,49.34014,Male,,%,,,,Total
+Tonga,TO,TON,776,Out-of-school rate for youth of upper secondary school age (administrative data),2020,41.35123,Total,,%,,,,Total
+Trinidad and Tobago,TT,TTO,780,Out-of-school rate for youth of upper secondary school age (administrative data),2020,25.0056,Female,,%,,,,Total
+Trinidad and Tobago,TT,TTO,780,Out-of-school rate for youth of upper secondary school age (administrative data),2020,26.50642,Male,,%,,,,Total
+Trinidad and Tobago,TT,TTO,780,Out-of-school rate for youth of upper secondary school age (administrative data),2020,25.76558,Total,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Out-of-school rate for youth of upper secondary school age (administrative data),2020,41.31148,Female,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Out-of-school rate for youth of upper secondary school age (administrative data),2020,48.0315,Male,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Out-of-school rate for youth of upper secondary school age (administrative data),2020,44.73896,Total,,%,,,,Total
+Tuvalu,TV,TUV,798,Out-of-school rate for youth of upper secondary school age (administrative data),2020,61.29032,Female,,%,,,,Total
+Tuvalu,TV,TUV,798,Out-of-school rate for youth of upper secondary school age (administrative data),2020,67.87709,Male,,%,,,,Total
+Tuvalu,TV,TUV,798,Out-of-school rate for youth of upper secondary school age (administrative data),2020,64.66381,Total,,%,,,,Total
+Turkey,TR,TUR,792,Out-of-school rate for youth of upper secondary school age (administrative data),2019,19.31788,Female,,%,,,,Total
+Turkey,TR,TUR,792,Out-of-school rate for youth of upper secondary school age (administrative data),2019,17.09841,Male,,%,,,,Total
+Turkey,TR,TUR,792,Out-of-school rate for youth of upper secondary school age (administrative data),2019,18.18393,Total,,%,,,,Total
+Uganda,UG,UGA,800,Out-of-school rate for youth of upper secondary school age (administrative data),2017,77.54351,Female,,%,,,,Total
+Uganda,UG,UGA,800,Out-of-school rate for youth of upper secondary school age (administrative data),2017,72.41855,Male,,%,,,,Total
+Uganda,UG,UGA,800,Out-of-school rate for youth of upper secondary school age (administrative data),2017,75.00986,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Out-of-school rate for youth of upper secondary school age (administrative data),2014,4.31127,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Out-of-school rate for youth of upper secondary school age (administrative data),2014,7.38249,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Out-of-school rate for youth of upper secondary school age (administrative data),2014,5.88308,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Out-of-school rate for youth of upper secondary school age (administrative data),2020,1.83229,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Out-of-school rate for youth of upper secondary school age (administrative data),2020,2.51924,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Out-of-school rate for youth of upper secondary school age (administrative data),2020,2.17404,Total,,%,,,,Total
+United Kingdom,GB,GBR,826,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.04646,Female,,%,,,,Total
+United Kingdom,GB,GBR,826,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.80267,Male,,%,,,,Total
+United Kingdom,GB,GBR,826,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.43264,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Out-of-school rate for youth of upper secondary school age (administrative data),2016,87.72816,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Out-of-school rate for youth of upper secondary school age (administrative data),2016,83.84053,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Out-of-school rate for youth of upper secondary school age (administrative data),2016,85.77532,Total,,%,,,,Total
+United States,US,USA,840,Out-of-school rate for youth of upper secondary school age (administrative data),2019,4.94948,Female,,%,,,,Total
+United States,US,USA,840,Out-of-school rate for youth of upper secondary school age (administrative data),2019,2.59924,Male,,%,,,,Total
+United States,US,USA,840,Out-of-school rate for youth of upper secondary school age (administrative data),2019,3.75075,Total,,%,,,,Total
+Uruguay,UY,URY,858,Out-of-school rate for youth of upper secondary school age (administrative data),2019,7.87026,Female,,%,,,,Total
+Uruguay,UY,URY,858,Out-of-school rate for youth of upper secondary school age (administrative data),2019,13.39377,Male,,%,,,,Total
+Uruguay,UY,URY,858,Out-of-school rate for youth of upper secondary school age (administrative data),2019,10.68979,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.67173,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Out-of-school rate for youth of upper secondary school age (administrative data),2019,13.94742,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Out-of-school rate for youth of upper secondary school age (administrative data),2019,14.30174,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Out-of-school rate for youth of upper secondary school age (administrative data),2020,52.46674,Female,,%,,,,Total
+Vanuatu,VU,VUT,548,Out-of-school rate for youth of upper secondary school age (administrative data),2020,58.46037,Male,,%,,,,Total
+Vanuatu,VU,VUT,548,Out-of-school rate for youth of upper secondary school age (administrative data),2020,55.59125,Total,,%,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Out-of-school rate for youth of upper secondary school age (administrative data),2017,18.9707,Female,,%,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Out-of-school rate for youth of upper secondary school age (administrative data),2017,27.59017,Male,,%,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Out-of-school rate for youth of upper secondary school age (administrative data),2017,23.36318,Total,,%,,,,Total
+Yemen,YE,YEM,887,Out-of-school rate for youth of upper secondary school age (administrative data),2016,67.67506,Female,,%,,,,Total
+Yemen,YE,YEM,887,Out-of-school rate for youth of upper secondary school age (administrative data),2016,45.60837,Male,,%,,,,Total
+Yemen,YE,YEM,887,Out-of-school rate for youth of upper secondary school age (administrative data),2016,56.44408,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Out-of-school rate for youth of upper secondary school age (administrative data),2015,45.02828,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Out-of-school rate for youth of upper secondary school age (administrative data),2015,40.3382,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Out-of-school rate for youth of upper secondary school age (administrative data),2020,55.27636,Total,,%,,,,Total
